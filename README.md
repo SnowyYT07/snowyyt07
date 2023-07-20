@@ -16,6 +16,7 @@ snowy@localhost:$ echo "Hello World!" > README.md
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Nextcloud](https://img.shields.io/badge/NextCloud-%23327FC8.svg?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 - **Softwares and Tools**:
 
