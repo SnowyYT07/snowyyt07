@@ -1,3 +1,5 @@
+![.](https://github.com/SnowyYT07/snowyyt07/blob/main/image1.png)
+
 <h2 align="center">Hello there! Snowy here.</h2>
 
 ``` shell
