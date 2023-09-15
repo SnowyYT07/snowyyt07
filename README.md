@@ -8,6 +8,8 @@ snowy@localhost:$ echo "Hello World!" > README.md
 **TryHackme Badge**:
 
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/SnowyY.png" alt="TryHackMe">
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Skills </b>
 
 - **Languages**:
