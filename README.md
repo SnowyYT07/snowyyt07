@@ -89,3 +89,7 @@ snowy@localhost:$ echo "Hello World!" > README.md
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)![Address](https://img.shields.io/badge/888VbvUL18764L5yRCk2QTJ5AGwTXtS7U199F6txudbVBTvAEJ9N4D2Y5MvgRtCNtS3Z4uHb4YAhSaGVfMmduBXh2UNUdrD-000000?style=for-the-badge&logoColor=white)
 
 ![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)![Link](https://img.shields.io/badge/https://paypal.me/SnowyV07-000000?style=for-the-badge&logoColor=white)
+
+|                         Donations                         |
+|-----------------------------------------------------------|
+| [<img src="https://github.com/snowyyt07.png?size=250" width=115><br><sub>@snowyyt07</sub>](https://github.com/snowyyt07) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/snowyy0)  |
